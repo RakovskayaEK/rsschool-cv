@@ -1,19 +1,19 @@
-#Ekaterina Rakovskaya
-##Contact information:
-```
-Phone: +7 911 123 1234
-E-mail: rakovskayaek@gmail.com
+# Ekaterina Rakovskaya
+## Contact information:
+
+Phone: +7 911 123 1234  
+E-mail: rakovskayaek@gmail.com  
 Telegram: @rakovskayaek
-```
-##Skills
-```
-+HTML
-+CSS/SASS
-+JavaScript (Basic)
-+Git
-```
-##Code Examples
-```
+
+## Skills
+
++ HTML
++ CSS/SASS
++ JavaScript (Basic)
++ Git
+
+## Code Examples
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -26,8 +26,9 @@ Telegram: @rakovskayaek
 </body>
 </html>
 ```
-##Languages
-```
-Russian - native
-English - B2
-```
+
+## Languages
+
+* Russian - native
+* English - B2
+
