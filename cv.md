@@ -1,7 +1,7 @@
 # Ekaterina Rakovskaya
 ## Contact information:
 
-Phone: +7 911 123 1234  
+Phone: +7 912 123 1234  
 E-mail: rakovskayaek@gmail.com  
 Telegram: @rakovskayaek
 ## About me
